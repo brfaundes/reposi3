@@ -1,2 +1,3 @@
 Archivo de texto 
 Edicion de archivo de texto desde github
+Edicion desde Terminal despues del pull
